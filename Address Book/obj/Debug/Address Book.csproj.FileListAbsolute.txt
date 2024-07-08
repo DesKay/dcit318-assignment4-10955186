@@ -1,0 +1,10 @@
+C:\Users\DELL\Desktop\New folder\Address Book\bin\Debug\Address Book.exe.config
+C:\Users\DELL\Desktop\New folder\Address Book\bin\Debug\Address Book.exe
+C:\Users\DELL\Desktop\New folder\Address Book\bin\Debug\Address Book.pdb
+C:\Users\DELL\Desktop\New folder\Address Book\obj\Debug\Address Book.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\New folder\Address Book\obj\Debug\Address_Book.Form1.resources
+C:\Users\DELL\Desktop\New folder\Address Book\obj\Debug\Address_Book.Properties.Resources.resources
+C:\Users\DELL\Desktop\New folder\Address Book\obj\Debug\Address Book.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\New folder\Address Book\obj\Debug\Address Book.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\New folder\Address Book\obj\Debug\Address Book.exe
+C:\Users\DELL\Desktop\New folder\Address Book\obj\Debug\Address Book.pdb
